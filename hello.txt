@@ -2,7 +2,7 @@ hello git! hello git world!zhang commit
 hello git! hello git world!
 hello git! hello git world!
 hello git! hello git world!
-hello git! hello git world!
+hello git! hello git world!push commit
 hello git! hello git world!
 hello git! 
 hello git! hello git world!master commit
